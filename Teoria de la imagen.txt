@@ -1,0 +1,160 @@
+<html>
+
+<head>
+    <style>
+        body {
+            background-color: rgb(227, 229, 255);
+            font-size: 24px;
+            font-family: 'Didot ', cursive;
+            text-align: center;
+            padding: 0% 15%;
+            width: 75%;
+            align-items: center;
+            justify-content: center;
+        }
+
+        header {
+            text-align: center;
+            border-radius: 15px;
+            background-color: rgb(177, 185, 250);
+        }
+
+        h4 {
+            background-color: rgb(255, 255, 255);
+        }
+
+        table {
+            border-color: blue;
+        }
+
+        .center {
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        table {
+            background-color: rgb(177, 185, 250);
+    margin-top:10px
+    margin-left:10px
+}
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1 style="color: rgb(150,0,0)">
+            BLOG DE LAS IMAGENES
+        </h1>
+    </header>
+
+    <table border="5" class="center">
+        <tr>
+            <th><a href="file:///D:/Blog%20de%20las%20imagenes%20en%20html/Teoria-de-la-imagen.html">La teoria de la imagen</a></th>
+            <th><a href="file:///D:/Blog%20de%20las%20imagenes%20en%20html/IMAGEN-EN-LA-ACTUALIDAD.html">Imagenes en la actualidad</a></th>
+            <th><a href="file:///D:/Blog%20de%20las%20imagenes%20en%20html/COLORES-Y-SUS-SIGNIFICADOS.html">Colores y sus significados</a></th>
+        </tr>
+    </table>
+    
+    <h2 style="color: rgb(136, 230, 119)">
+        LA TEORIA DE LA IMAGEN
+    </h2>
+
+    <h4 style="color: rgb(0,0,255)">
+        Introduccion
+    </h4>
+    <p>
+        Las imagenes son una representacion de algo real o ficticio que puede tener uno o varios significados que a su vez pueden varias segun las caracteristicas de la imagen mayormente por el color, la imagen tambien tiene repercuciones en la etica y la privacidad
+        de una personas debido al contenido que esta puede tener
+    </p>
+    <h4 style="color: rgb(0,0,255)">
+        ¿Que es la imagen?
+    </h4>
+    <a>
+         Una imagen es una representacion visual sobre algo que es real o fictisio, las imagenes pueden tener significados tanto literales como abstractos ademas que pueden ser tanto hechas a mano como por ejemplo dibujos o hechas en digital como camaras o dibujos dijitales. En una imagen tambien pueden haber varios tipos de elementos como por ejemplo: El fondo, el color, las formas, dimenciones, etc. Las imagenes pueden tener diferente funcionalidad, pueden ser artisticos buscan representar un significado repersentativo osea que buscan representar algo como por ejemplo un paisaje o pueden ser abtractas o sea que representan fuguras o cosas con un sentido no muy literal sino que tiene un significado profundo, las imagenes tambien pueden ser publicitarias o sea que buscan representar un producto y que genere un interes en el espectador para comprarlo.
+         </a>
+
+
+    <table border="4" class="center">
+        <tr>
+            <th> <img src="https://www.educaciontrespuntocero.com/wp-content/uploads/2020/04/mejores-bancos-de-imagenes-gratis.jpg" width="200" height="200" /></th>
+            <th> <img src="https://d38b044pevnwc9.cloudfront.net/cutout-nuxt/enhancer/2.jpg" width="200" height="200" /></th>
+            <th> <img src="https://cdn.shopify.com/s/files/1/0229/0839/files/Busqueda_de_imagenes_3_large.jpg?v=1578328497" width="200" height="200" /></th>
+            <th> <img src="https://static4.depositphotos.com/1015265/305/i/450/depositphotos_3054488-stock-photo-stunning-waterfall.jpg" width="200" height="200" /></th>
+        </tr>
+    </table>
+    <h4 style="color: rgb(0,0,255)">
+        Propiedades y Caracteristicas de la imagen
+    </h4>
+
+    <a>
+         Una imagen tiene muchas caracteristicas y propiedades, ahora procederemos a mensionar y especificar algunas de ellas:
+         </a>
+
+    <table border="5" class="center">
+        <tr>
+            <th>Iconicidad</th>
+            <td>Se refiere al grado de aproximación de la imagen a la realidad. Cuanto más se parece a la realidad, mayor es su iconicidad.</td>
+            <th>Abstracción
+            </th>
+
+            <td>Algunas imágenes no representan la realidad tal cual es, sino que requieren interpretación subjetiva por parte del espectador.</td>
+        </tr>
+    </table>
+
+    <table border="5" class="center">
+        <tr>
+            <th>Simplicidad y complejidad</th>
+
+            <td>Las imágenes pueden ser simples o complejas en su diseño, lo que afecta la facilidad de comprensión.</td>
+
+            <th>Denotación y connotación
+
+                <td>La denotación se refiere a los componentes visibles y reconocibles de la imagen, mientras que la connotación es la interpretación personal y subjetiva.</td>
+        </tr>
+    </table>
+
+    <h4 style="color: rgb(0,0,255)">
+        Clasificacion de las imagenes
+    </h4>
+    <table border="5" class="center">
+        <tr>
+            <th>Manual</th>
+            <td>Son todos los dibujos hechos a mano, pueden ser tanto hechos en papel como hasta en un mural.</td>
+              <th> <img src="https://dibujafacil.com/wp-content/uploads/2022/03/Dibujar-Un-Papel-Arrugado-Facil-Paso-a-Paso.jpg" width="150" height="150" /></th>
+            <th>Digital
+            </th>
+
+            <td>Son todas las imagenes hechas por sisrtemas digitales, pueden ser tanto fotos hechas con cualquier tipo de camara o tambine pueden ser representaciones digitales de cualquier tipo.</td>
+              <th> <img src="https://www.fotoaprendizaje.com/wp-content/uploads/2021/02/Dibujo-digital-con-photoshop-d1.jpg" width="150" height="150" /></th>
+        </tr>
+    </table>
+
+    <table border="5" class="center">
+        <tr>
+            <th>Representativa</th>
+
+            <td>Son imagnes que pueden tener uno o varios significados pero son imagenes que tienen objetos comunes o faciles de identificar.</td>
+              <th> <img src="https://img.freepik.com/vector-premium/dibujos-animados-edificio-estado-real_24640-38980.jpg" width="150" height="150" /></th>
+
+            <th>Abstracta
+
+                <td>Son imagenes que en un prinicipio puede que no creas que tengan un significado o que tiene forma alguna, pero siguen teniendo un significado, normalmente son hechas con pincel.</td>
+                  <th> <img src="https://definicion.de/wp-content/uploads/2011/05/pintura-abstracta.jpg" width="150" height="150" /></th>
+        </tr>
+    </table>
+    <table border="5" class="center">
+        <tr>
+            <th>Artistica</th>
+
+            <td>Son imagenes hechas como on hobbie o para mostrar el talento del artista, el significado puede variar dependiendo de lo que quiera mostrar el autor.</td>
+              <th> <img src="https://www.ejemplos.co/wp-content/uploads/2017/06/pintura-al-oleo-arte-min-e1497536746827.jpg" width="150" height="150" /></th>
+
+            <th>Publicitaria
+
+                <td>Son imagenes hechas con el fin de ofrecer publicidad o reconocimento a alguna marca, alguna persona o partido politico, su fin es atraer al espectador a ese producto o cosa a la que se le esta efreciendo publicidad.</td>
+                <th> <img src="https://static.mercadonegro.pe/wp-content/uploads/2022/04/01135046/imagenes-de-campanas-publicitarias.jpg" width="150" height="150" /></th>
+        </tr>
+    </table>
+</body>
+
+</html>
